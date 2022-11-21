@@ -1,4 +1,4 @@
-# Homeassistant local test repository
+# Homeassistant example repository
 
 This repository serves for learning purposes.
 It is meant to showcase a setup for one local sensor within homeassistant
